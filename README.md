@@ -1,2 +1,2 @@
-# Programming-Fundamentals-Common-Lections
-Programming Fundamentals Common Lections
+# Programming-Fundamentals-Common-Lectures
+Programming Fundamentals Common Lectures
